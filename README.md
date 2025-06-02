@@ -2,7 +2,7 @@
 
 ## 🤖 What is Agno?
 
-[Agno](https://github.com/agno-agi/agno) is an open-source Python library that helps language model agents critique and improve their own outputs. It enables LLMs to reason more deeply by reflecting on their responses — enhancing accuracy, coherence, and decision-making through internal feedback loops.
+[Agno](https://docs.agno.com/introduction) is an open-source Python library that helps language model agents critique and improve their own outputs. It enables LLMs to reason more deeply by reflecting on their responses — enhancing accuracy, coherence, and decision-making through internal feedback loops.
 
 Agno is especially useful in applications that benefit from iterative refinement, like writing assistants, planning agents, and memory-augmented reasoning tools.
 
